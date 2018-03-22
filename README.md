@@ -1,8 +1,8 @@
 # OpenStudio R Packages
 
-This code is designed to work with the [OpenStudio Server] (https://github.com/NREL/OpenStudio-server) and may not be appropriate for solo use.
+This code is designed to work with the [OpenStudio Server](https://github.com/NREL/OpenStudio-server) and may not be appropriate for solo use.
 It contains modified versions of existing R packages to fit the parallelization needs of the OS-Server.
-In most cases, the existing parallelization is replaced with one that takes an externally defined cluster object and then uses the 'clusterApplyLB' method in R::Parallel.
+In most cases, the existing parallelization is replaced with one that takes an externally defined cluster object and then uses the `clusterApplyLB` or `parApplyLB` method in R::Parallel.
 
 # Available Algorithms
 
