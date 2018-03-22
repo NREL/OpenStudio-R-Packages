@@ -1,0 +1,15 @@
+.ruby-uuid
+.idea
+.DS_Store
+.bundle
+.rubocop-https*
+*.log
+*.pem
+*.swp
+Gemfile.lock
+gems
+release.log
+rubocop-results.xml
+
+# ignore files with ~ at end
+*~
