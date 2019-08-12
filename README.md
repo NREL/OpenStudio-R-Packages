@@ -21,5 +21,5 @@ These modified algorithms are available from the following R packages:
 
 ## Questions?
 
-Please contact @bball, @nllong or @rhorsey with any question regarding this project. Thanks for you interest!
+Please contact @bball or @nllong with any question regarding this project. Thanks for you interest!
 
